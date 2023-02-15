@@ -2,6 +2,7 @@
 
 Необходимо сверстать макет из [Фигмы](https://www.figma.com/file/tgAgxT0IrRQlauFCwK8i1R/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%B0%D1%8F-%D0%B2%D0%B5%D1%80%D1%81%D1%82%D0%BA%D0%B0-4?node-id=0%3A1&t=1P5aEdQI6f2CVyZA-1). Результатом должен являться git репозиторий(Github, Gitlab, Bitbucket...) удовлетворяющий следующим требованиям:
 - Ограничений по времени нет.
+- Верстка должна удовлетворять PixelParallel.
 - Проект должен собираться с помощью одного из: gulp, webpack, vite.
 - Верстка по правилам БЭМ
 - Шрифты можно скачать по ссылкам [Nekst](https://bestfonts.pro/font/nekst), [Gilroy](https://bestfonts.pro/font/gilroy).
